@@ -1,0 +1,8 @@
+c:\users\gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\obj\Debug\BC.vbproj.GenerateResource.Cache
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\bin\Debug\BC.dll
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\bin\Debug\BC.pdb
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\bin\Debug\BC.xml
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\obj\Debug\BC.Resources.resources
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\obj\Debug\BC.dll
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\obj\Debug\BC.xml
+C:\Users\Gustavo\documents\visual studio 2012\Projects\WindowsApplication2\ClassLibrary1\obj\Debug\BC.pdb
